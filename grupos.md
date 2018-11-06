@@ -22,3 +22,14 @@ Locais :
 2 - Laboratório de Computação 10.andar  
 3 - Biblioteca  
 
+Grupo 4 :   
+---------  
+Componentes: Aluno1 - moisesvbernardo / Aluno2 - login_github2 / Aluno3 - login_github3  
+Projeto: Projeto 2 - Tour Lasalle
+
+Locais :  
+1 - Espaço Conecta  
+2 -  ||
+3 -  ||
+
+
