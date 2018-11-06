@@ -54,3 +54,13 @@ Locais :
 2 -  ||
 3 -  ||
 
+
+Grupo 8 :   
+---------  
+Componentes: Mariane Teixeira - mariteixeirac / Gabriel Abbade - Abbade / Douglas Carvalho - dougcarvalho92  
+Projeto: Projeto 1 - Google Apps
+
+Ferramenta :  
+1 - Google Classroom Aluno   
+2 -  ||
+3 -  ||
