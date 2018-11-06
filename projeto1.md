@@ -35,7 +35,7 @@ Trabalho em grupo (de 1 a 3 pessoas).
 - Logotipo Learnpedia  
 
 
-3 - Após escolher seu tema e capítulo, atualize o arquivo [grupos.md](https://github.com/salgado/2018.1.cscw/blob/master/trabalhoav2/grupos.md) com sua escolha (não pode haver capitulos de temas já escolhido por outras equipes.
+3 - Após escolher seu tema e capítulo, atualize o arquivo [grupos.md](https://github.com/salgado/cscsw.2018.2.av2/blob/master/grupos.md) com sua escolha (não pode haver capitulos de temas já escolhido por outras equipes.
 
 4 - Integre sua página ao HTML principal que acessa todos os tutoriais. A sua página deve estar dentro da pasta com o nome do seu grupo. Ex.: grupo01, grupo02, grupo03....
 
