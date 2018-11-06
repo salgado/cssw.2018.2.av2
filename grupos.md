@@ -54,6 +54,7 @@ Locais :
 2 -  ||
 3 -  ||
 
+
 Grupo 6   
 ---------  
 Componentes: Gabriel Vicente - gabrielvf64 / Luciano Oliveira - LucianoOliverSilva  
@@ -64,3 +65,13 @@ Capítulo/título do vídeo :
 1 - Criar conta no google drive  
 2 - Criar e compartilhar pastas 
 
+Grupo 8 :   
+---------  
+Componentes: Mariane Teixeira - mariteixeirac / Gabriel Abbade - Abbade / Douglas Carvalho - dougcarvalho92  
+Projeto: Projeto 1 - Google Apps
+
+Ferramenta :  
+1 - Google Classroom Aluno   
+2 -  ||
+3 -  ||
+=======
