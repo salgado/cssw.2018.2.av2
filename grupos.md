@@ -103,3 +103,11 @@ Capítulo/título do vídeo :
 2 - 
 3 - 
 
+Grupo 1 :
+---------
+Componentes: Rodrigo Freitas Oliveira - khriku56 / Matheus coelho - matheus009 / Jonathan Cabral - JonathanCabral123/ Luciano Roberto - lucianoroberto10,
+Projeto: Projeto 1 - Google Meet/Hangout 
+Capítulo/título do vídeo :   
+1 - 
+2 - 
+3 - 
