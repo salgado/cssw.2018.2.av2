@@ -25,10 +25,10 @@ Locais :
 
 Grupo 3 :   
 ---------  
-Componentes: Artur - arturguedes / Fernanda - loureironanda
-Projeto: Projeto 1 - Tutorial Google Apps
-Tema: Google Agenda
-
-Capítulo/título do vídeo :  
+Componentes: Artur - arturguedes / Fernanda - loureironanda  
+Projeto: Projeto 1 - Tutorial Google Apps  
+Tema: Google Agenda  
+  
+Capítulo/título do vídeo :   
 1 - Criar um evento no calendário  
 2 - Criar um lembrete
