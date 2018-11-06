@@ -68,8 +68,9 @@ Capítulo/título do vídeo :
 Grupo 7  :   
 ---------  
 Componentes: Aluno1 - patrickedai 
-Projeto: Projeto 2 - Tour Lasalle
-1- GALERIA
+Projeto: Projeto 2 - Tour Lasalle  
+1- GALERIA  
+
 
 Grupo 8 :   
 ---------  
