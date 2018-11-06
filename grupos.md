@@ -54,3 +54,13 @@ Locais :
 2 -  ||
 3 -  ||
 
+Grupo 6   
+---------  
+Componentes: Gabriel Vicente - gabrielvf64 / Luciano Oliveira - LucianoOliverSilva  
+Projeto: Projeto 1 - Tutorial Google Apps  
+Tema: Google Drive  
+
+Capítulo/título do vídeo :  
+1 - Criar conta no google drive  
+2 - Criar e compartilhar pastas 
+
