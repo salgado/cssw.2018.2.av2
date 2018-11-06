@@ -54,3 +54,11 @@ Locais :
 2 -  ||
 3 -  ||
 
+Grupo 7 :
+---------
+Componentes: Aluno1 - ViniciusGagliano / Aluno2 - m2Gomes / Aluna3 - btvilacha
+Projeto: Projeto 1 - Google Classroom Aluno
+
+1 - 
+2 - 
+3 - 
