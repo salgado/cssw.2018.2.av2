@@ -32,3 +32,14 @@ Tema: Google Agenda
 Capítulo/título do vídeo :   
 1 - Criar um evento no calendário  
 2 - Criar um lembrete
+
+Grupo 4 :   
+---------  
+Componentes: Bruna - bjgrassi / Charles - CharlesJeanRJ / Felipe Malcher - FelipeMalcher   
+Projeto: Projeto 1 - Tutorial Google Apps  
+Tema: Google Presentation  
+  
+Capítulo/título do vídeo :   
+1 - 
+2 - 
+3 - 
