@@ -10,5 +10,4 @@ Após criar o grupo, definir qual projeto vai contribuir e qual tema dentro de c
 [Projeto 2 - Tour Lasalle](https://github.com/salgado/cscsw.2018.2.av2/blob/master/projeto2.md)
 
 
-Veja a Descrição dos projetos no link a seguir e preencha o arquivo grupos.md com sua escolha (lembrando que não poderá haver temas repetidos).
-
+Veja a Descrição dos projetos nos links anteriores. Após escolher seu tema e capítulo, atualize o arquivo [grupos.md](https://github.com/salgado/cscsw.2018.2.av2/blob/master/grupos.md) com sua escolha (não pode haver capitulos de temas já escolhido por outras equipes.
