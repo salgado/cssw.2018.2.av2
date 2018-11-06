@@ -5,7 +5,7 @@ Descrição do trabalho da AV2
 
 Trabalho em grupo (de 1 a 3 pessoas).
 
-Após criar o grupo, definir qual projeto vai contribuir e qual tema dentro de cada projeto. 
+Após criar o grupo, definir qual projeto vai contribuir e qual tema dentro de cada projeto.  
 Projeto 1 - Tutorial Google Apps 
 Projeto 2 - Tour Lasalle 
 
