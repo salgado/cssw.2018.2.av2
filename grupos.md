@@ -74,10 +74,8 @@ Projeto: Projeto 2 - Tour Lasalle
 Grupo 8 :   
 ---------  
 Componentes: Mariane Teixeira - mariteixeirac / Gabriel Abbade - Abbade / Douglas Carvalho - dougcarvalho92  
-Projeto: Projeto 1 - Google Apps
-
+Projeto: Projeto 1 - Google Apps  
 Ferramenta :  
 1 - Google Classroom Aluno   
 2 -  ||
 3 -  ||
-=======
