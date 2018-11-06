@@ -22,3 +22,13 @@ Locais :
 2 - Laboratório de Computação 10.andar  
 3 - Biblioteca  
 
+
+Grupo 3 :   
+---------  
+Componentes: Artur - arturguedes / Fernanda - loureironanda
+Projeto: Projeto 1 - Tutorial Google Apps
+Tema: Google Agenda
+
+Capítulo/título do vídeo :  
+1 - Criar um evento no calendário  
+2 - Criar um lembrete
