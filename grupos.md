@@ -3,7 +3,7 @@ Grupos, temas e capítulos
 Grupo 1 (Exemplo) :   
 ---------  
 Componentes: Aluno1 - login_github1 / Aluno2 - login_github2 / Aluno3 - login_github3  
-Projeto: Projeto 1 - Tutorial Google Apps
+Projeto: Projeto 1 - Tutorial Google Apps  
 Tema: Google Drive  
 
 Capítulo/título do vídeo :  
@@ -25,10 +25,10 @@ Locais :
 
 Grupo 3 :   
 ---------  
-Componentes: Artur - arturguedes / Fernanda - loureironanda
-Projeto: Projeto 1 - Tutorial Google Apps
-Tema: Google Agenda
-
-Capítulo/título do vídeo :  
+Componentes: Artur - arturguedes / Fernanda - loureironanda  
+Projeto: Projeto 1 - Tutorial Google Apps  
+Tema: Google Agenda  
+  
+Capítulo/título do vídeo :   
 1 - Criar um evento no calendário  
 2 - Criar um lembrete
