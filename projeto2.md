@@ -1,6 +1,6 @@
 # Trabalho AV2 - Tour Lasalle
 
-Trabalho em grupo (de 1 a 3 pessoas). Como um guia, você deveraá fazer um vídeo mostrando um local da faculdade de modo que novos alunos possam conhecer  .
+Trabalho em grupo (de 1 a 3 pessoas). Como um guia, você deverá fazer um vídeo mostrando um local da faculdade de modo que novos alunos possam conhecer  . O objetivo é mostrar a infra-estrutura da faculdade para pessoas que não conhece o nosso campus .  
 
 1.Pesquisar e mostrar 3 soluções que exibe informações geolocalizadas.  
 
