@@ -3,7 +3,7 @@ Grupos, temas e capítulos
 Grupo 1 (Exemplo) :   
 ---------  
 Componentes: Aluno1 - login_github1 / Aluno2 - login_github2 / Aluno3 - login_github3  
-Projeto: Projeto 1 - Tutorial Google Apps
+Projeto: Projeto 1 - Tutorial Google Apps  
 Tema: Google Drive  
 
 Capítulo/título do vídeo :  
