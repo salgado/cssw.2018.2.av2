@@ -82,3 +82,15 @@ Capítulo/título do vídeo :
 1 - Criar conta no google drive  
 2 - Criar e compartilhar pastas  
 3 - Trabalhar offline  
+
+
+Grupo 10   
+---------  
+Componentes: Juliana Loureiro - juubsloureiro / Fellipe Pinho - Mansufa
+Projeto: Projeto 1 - Tutorial Google Apps  
+Tema: Google Gmail  
+  
+Capítulo/título do vídeo :   
+1 - 
+2 - 
+3 - 
