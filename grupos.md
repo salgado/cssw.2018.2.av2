@@ -22,7 +22,29 @@ Locais :
 2 - Laboratório de Computação 10.andar  
 3 - Biblioteca  
 
+
+Grupo 3 :   
+---------  
+Componentes: Artur - arturguedes / Fernanda - loureironanda  
+Projeto: Projeto 1 - Tutorial Google Apps  
+Tema: Google Agenda  
+  
+Capítulo/título do vídeo :   
+1 - Criar um evento no calendário  
+2 - Criar um lembrete
+
 Grupo 4 :   
+---------  
+Componentes: Bruna - bjgrassi / Charles - CharlesJeanRJ / Felipe Malcher - FelipeMalcher   
+Projeto: Projeto 1 - Tutorial Google Apps  
+Tema: Google Presentation  
+  
+Capítulo/título do vídeo :   
+1 - 
+2 - 
+3 - 
+
+Grupo 5 :   
 ---------  
 Componentes: Aluno1 - moisesvbernardo / Aluno2 - login_github2 / Aluno3 - login_github3  
 Projeto: Projeto 2 - Tour Lasalle
@@ -31,5 +53,4 @@ Locais :
 1 - Espaço Conecta  
 2 -  ||
 3 -  ||
-
 
