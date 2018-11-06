@@ -45,7 +45,6 @@ Locais :
 2 -  ||
 3 -  ||
 
-
 Grupo 6   
 ---------  
 Componentes: Gabriel Vicente - gabrielvf64 / Luciano Oliveira - LucianoOliverSilva  
@@ -94,3 +93,13 @@ Capítulo/título do vídeo :
 1 - 
 2 - 
 3 - 
+
+Grupo 11 :
+---------
+Componentes: Aluno1 - ViniciusGagliano / Aluno2 - m2Gomes / Aluna3 - btvilacha
+Projeto: Projeto 1 - Google Docs
+Capítulo/título do vídeo :   
+1 - 
+2 - 
+3 - 
+
