@@ -43,6 +43,7 @@ Trabalho em grupo (de 1 a 3 pessoas).
 7 - O repositório do projeto a ser usado deve ser este:
 - Faça um Fork deste repositório
 - Nomeie 1 membro para ser o administrador e façam o fork dele (ou seja, vai ter fork em cima de fork)
+- Crie uma pasta com o numero do seu grupo dentro da pasta Projeto1GoogleApps
 - (Trabalhe)
 - Enviar-me um pull request para mim
 
