@@ -43,3 +43,14 @@ Capítulo/título do vídeo :
 1 - 
 2 - 
 3 - 
+
+Grupo 5 :   
+---------  
+Componentes: Aluno1 - moisesvbernardo / Aluno2 - login_github2 / Aluno3 - login_github3  
+Projeto: Projeto 2 - Tour Lasalle
+
+Locais :  
+1 - Espaço Conecta  
+2 -  ||
+3 -  ||
+
