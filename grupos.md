@@ -17,12 +17,6 @@ Grupo 2 (Exemplo) :
 Componentes: Aluno1 - login_github1 / Aluno2 - login_github2 / Aluno3 - login_github3  
 Projeto: Projeto 2 - Tour Lasalle
 
-GGrupo 6  :   
----------  
-Componentes: Aluno1 - patrickedai 
-Projeto: Projeto 2 - Tour Lasalle
-1- GALERIA
-
 Locais :  
 1 - Auditório 8a. andar  
 2 - Laboratório de Computação 10.andar  
@@ -70,6 +64,12 @@ Tema: Google Drive
 Capítulo/título do vídeo :  
 1 - Criar conta no google drive  
 2 - Criar e compartilhar pastas 
+
+Grupo 7  :   
+---------  
+Componentes: Aluno1 - patrickedai 
+Projeto: Projeto 2 - Tour Lasalle
+1- GALERIA
 
 Grupo 8 :   
 ---------  
