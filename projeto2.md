@@ -6,7 +6,7 @@ Trabalho em grupo (de 1 a 3 pessoas). Como um guia, você deveraá fazer um víd
 
 2.Baseado na sua pesquisa, propor e criar uma página HTML estática que exibe um vídeo (criado por vocês) filmando e explicando um dos locais abaixo localizados na faculdade:
 - Biblioteca
-- Pátio Central 
+- Pátio/Entrada Central 
 - Auditórios 
 - Centro Tecnológico 
 - Espaço Conecta 
