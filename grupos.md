@@ -80,3 +80,14 @@ Ferramenta :
 1 - Google Classroom Aluno   
 2 -  ||
 3 -  ||
+
+Grupo 9   
+---------  
+Componentes: Juliana Loureiro - juubsloureiro / Fellipe Pinho - Mansufa
+Projeto: Projeto 1 - Tutorial Google Apps  
+Tema: Google Gmail  
+  
+Capítulo/título do vídeo :   
+1 - 
+2 - 
+3 - 
