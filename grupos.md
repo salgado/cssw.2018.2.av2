@@ -17,7 +17,7 @@ Grupo 2 (Exemplo) :
 Componentes: Aluno1 - login_github1 / Aluno2 - login_github2 / Aluno3 - login_github3  
 Projeto: Projeto 2 - Tour Lasalle
 
-Grupo 6  :   
+GGrupo 6  :   
 ---------  
 Componentes: Aluno1 - patrickedai 
 Projeto: Projeto 2 - Tour Lasalle
