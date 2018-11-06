@@ -16,7 +16,7 @@ Trabalho em grupo (de 1 a 3 pessoas). Como um guia, você deverá fazer um víde
 - Laboratórios de Computação  
 - Sala do Juri 
 
-2.1 - Dentro dos temas acima, escolher um capítulo e fazer um vídeo de 6-10 minutos (1 vídeo diferente no mesmo tema por membro da equipe) e subir no Youtube.
+2.1 - Dentro dos temas acima, escolher um capítulo e fazer um vídeo de 3-10 minutos (1 vídeo diferente no mesmo tema por membro da equipe) e subir no Youtube.
 
 2.2 - Permitir na sua página que o usuário possa compartilhar o vídeo nas redes sociais (ex.: Botão de compartilhar).
 
