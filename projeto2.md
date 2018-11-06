@@ -25,6 +25,7 @@ Trabalho em grupo (de 1 a 3 pessoas). Como um guia, você deverá fazer um víde
 2.4 - Na página de exibição do vídeo guia local, devem conter no mínimo, os seguintes componentes de tela:
 - Título do local  
 - Descrição resumida  
+- Como chegar  
 - Autor  
 - Foto do autor  
 - Data da publicação  
