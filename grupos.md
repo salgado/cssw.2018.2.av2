@@ -1,15 +1,6 @@
 login_github1 Grupos, temas e capítulos
 --------------------------
-Grupo 11 (Exemplo) :   
----------  
-Componentes: Filipe Trigueiro - https://github.com/FilipeTrigueiro/ Bruno Diniz - https://github.com/BrunoArcoverdeDiniz / Thiago Quaresma
-Projeto: Projeto 1 - Tutorial Google Apps  
-Tema: Google Sheet  
 
-Capítulo/título do vídeo :  
-1 - Criar conta no google drive  
-2 - Criar e compartilhar pastas  
-3 - Trabalhar offline  
 
 
 Grupo 2 (Exemplo) :   
@@ -80,3 +71,14 @@ Ferramenta :
 1 - Google Classroom Aluno   
 2 -  ||
 3 -  ||
+
+Grupo 9  :   
+---------  
+Componentes: Filipe Trigueiro - https://github.com/FilipeTrigueiro/ Bruno Diniz - https://github.com/BrunoArcoverdeDiniz / Thiago Quaresma
+Projeto: Projeto 1 - Tutorial Google Apps  
+Tema: Google Sheet  
+
+Capítulo/título do vídeo :  
+1 - Criar conta no google drive  
+2 - Criar e compartilhar pastas  
+3 - Trabalhar offline  
