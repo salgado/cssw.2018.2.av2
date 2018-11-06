@@ -96,8 +96,8 @@ Capítulo/título do vídeo :
 
 Grupo 11 :
 ---------
-Componentes: Aluno1 - ViniciusGagliano / Aluno2 - m2Gomes / Aluna3 - btvilacha
-Projeto: Projeto 1 - Google Docs
+Componentes: Aluno1 - ViniciusGagliano / Aluno2 - m2Gomes / Aluna3 - btvilacha  
+Projeto: Projeto 1 - Google Docs  
 Capítulo/título do vídeo :   
 1 - 
 2 - 
