@@ -16,7 +16,7 @@ Locais :
 
 Grupo 3 :   
 ---------  
-Componentes: Artur - arturguedes / Fernanda - loureironanda  
+Componentes: Artur - arturguedes / Fernanda - loureironanda Vinicius/vinnihashirama    
 Projeto: Projeto 1 - Tutorial Google Apps  
 Tema: Google Agenda  
   
