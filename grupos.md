@@ -111,3 +111,14 @@ Capítulo/título do vídeo :
 2 - 
 3 - 
 
+
+## Grupo 12 :
+Componentes: Aluno1 - Breno Sobral
+Projeto: Projeto 1 -  Tutorial Google Apps
+Tema: Google Scripts  
+  
+Capítulo/título do vídeo :   
+1 - Iniciando no Google Scripts.
+2 - Criando seu Primeiro Script.
+3 - Aplicando Script em um formulário.
+
