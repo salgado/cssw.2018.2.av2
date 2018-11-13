@@ -6,9 +6,9 @@ Grupo 1 :
 Componentes: Rodrigo Freitas Oliveira - khriku56 / Matheus coelho - matheus009 / Jonathan Cabral - JonathanCabral123/ Luciano Roberto - lucianoroberto10,  
 Projeto: Projeto 1 - Google Meet/Hangout  
 Capítulo/título do vídeo :   
-1 - 
-2 - 
-3 - 
+1 -
+2 -
+3 -
 
 
 Grupo 2 (Exemplo) :   
@@ -27,7 +27,7 @@ Grupo 3 :
 Componentes: Artur - arturguedes / Fernanda - loureironanda Vinicius/vinnihashirama    
 Projeto: Projeto 1 - Tutorial Google Apps  
 Tema: Google Agenda  
-  
+
 Capítulo/título do vídeo :   
 1 - Criar um evento no calendário  
 2 - Criar um lembrete
@@ -37,11 +37,11 @@ Grupo 4 :
 Componentes: Bruna - bjgrassi / Charles - CharlesJeanRJ / Felipe Malcher - FelipeMalcher   
 Projeto: Projeto 1 - Tutorial Google Apps  
 Tema: Google Presentation  
-  
+
 Capítulo/título do vídeo :   
-1 - 
-2 - 
-3 - 
+1 -
+2 -
+3 -
 
 Grupo 5 :   
 ---------  
@@ -61,7 +61,7 @@ Tema: Google Drive
 
 Capítulo/título do vídeo :  
 1 - Criar conta no google drive  
-2 - Criar e compartilhar pastas 
+2 - Criar e compartilhar pastas
 
 Grupo 7  :   
 ---------  
@@ -96,18 +96,25 @@ Grupo 10
 Componentes: Juliana Loureiro - juubsloureiro / Fellipe Pinho - Mansufa
 Projeto: Projeto 1 - Tutorial Google Apps  
 Tema: Google Gmail  
-  
+
 Capítulo/título do vídeo :   
-1 - 
-2 - 
-3 - 
+1 -
+2 -
+3 -
 
 Grupo 11 :
 ---------
 Componentes: Aluno1 - ViniciusGagliano / Aluno2 - m2Gomes / Aluna3 - btvilacha  
 Projeto: Projeto 1 - Google Docs  
 Capítulo/título do vídeo :   
-1 - 
-2 - 
-3 - 
+1 -
+2 -
+3 -
 
+Grupo 12 :   
+---------  
+Componente: Leonardo Kaneko - leokaneko
+Projeto: Projeto 12 - Google Classroom Professor 
+
+Capítulo/título do vídeo :   
+1 -
