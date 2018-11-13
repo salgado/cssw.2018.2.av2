@@ -113,8 +113,8 @@ Capítulo/título do vídeo :
 
 Grupo 12 :   
 ---------  
-Componente: Leonardo Kaneko - leokaneko
-Projeto: Projeto 12 - Google Classroom Professor 
+Componente: Leonardo Kaneko - leokaneko  
+Projeto: Projeto 12 - Google Classroom Professor
 
 Capítulo/título do vídeo :   
 1 -
