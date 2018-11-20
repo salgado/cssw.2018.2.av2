@@ -111,3 +111,11 @@ Capítulo/título do vídeo :
 2 - 
 3 - 
 
+Grupo 12 : 
+---------
+Componentes: Aluno1 - lucasoutor / Aluno2 - ThaynaBustamente 
+Projeto: Projeto 1 - Google Presentation  
+título do vídeo :   Como usar o Google Presentation? Algumas dicas! 
+1 - 
+2 - 
+3 - 
