@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,user-scalable=no">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#222222">
+
+    <title>Grupo 3 - Google Agenda</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+
+<body>
+    <div id="fb-root"></div>
+    <script>
+        (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = 'https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v3.2&appId=1097635990410988&autoLogAppEvents=1';
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+
+    </script>
+    <div class="row">
+        <div class="col-md-3 sidebar">
+            <img class="logo-learnpedia mb-3" src="assets/imgs/logo_learnpedia.png" alt="Logo Learnpedia">
+
+            <!-- Artur -->
+            <div class="card card-select text-white bg-dark mb-3" onclick="cardClick(1)">
+                <div class="card-header"><span>Artur Guedes</span> <img class="avatar" src="assets/imgs/artur.jpg" /></div>
+                <div class="card-body">
+                    <h5 class="card-title">Google Agenda no computador</h5>
+                    <p class="card-text">Video demonstração de como criar, editar e remover eventos, agendas e como compartilha-las pelo computador.<br><br><strong><span>Data de publicação:</span></strong> 24/11/2018</p>
+                </div>
+            </div>
+
+            <!-- Fernanda -->
+            <div class="card text-white bg-dark mb-3" onclick="cardClick(2)">
+                <div class="card-header"><span>Fernanda Loureiro </span><img class="avatar" src="assets/imgs/fernanda.jpg" /></div>
+                <div class="card-body">
+                    <h5 class="card-title">Criar um evento</h5>
+                    <p class="card-text">Você pode criar eventos do Google Agenda a partir do seu computador ou dispositivo.<br><br><strong><span>Data de publicação:</span></strong> 99/99/9999</p>
+                </div>
+            </div>
+
+            <!-- Vinicius -->
+            <div class="card text-white bg-dark mb-3" onclick="cardClick(3)">
+                <div class="card-header"><span>Vinícius Hashirama</span> <img class="avatar" src="assets/imgs/vini.jpg" /></div>
+                <div class="card-body">
+                    <h5 class="card-title">Metas</h5>
+                    <p class="card-text">É possível ter mais tempo para as coisas importantes da vida criando metas no Google Agenda.<br><br><strong><span>Data de publicação:</span></strong> 99/99/9999</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-9 conteudo">
+            <div class="w3-content">
+
+                <!-- Artur -->
+                <iframe class="mySlides" src="https://www.youtube.com/embed/YFeb8Uvulco?&color=white" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+                <!-- Fernanda -->
+                <iframe class="mySlides" src="https://www.youtube.com/embed/EkfOdZ7_IbI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+                <!-- Vinicius -->
+                <iframe class="mySlides" src="https://www.youtube.com/embed/L8q4fg7Rv9o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+
+            <div class="w3-center">
+                <div class="w3-section">
+                    <button class="btn btn-outline-info mr-2" onclick="plusDivs(-1)">❮ anterior</button>
+                    <button class="btn btn-outline-info mr-5" onclick="plusDivs(1)">próximo ❯</button>
+                    <a href="#fb-comments" class="btn btn-outline-info mr-2">Comentar</a>
+                    <button class="btn btn-outline-info" onclick="compartilhar()">Compartilhar no facebook</button>
+                </div>
+                <center>
+                    <div id="fb-comments" class="fb-comments mt-3" data-href="https://arturguedes.github.io/cssw.2018.2.av2/Projeto1GoogleApps/Grupo%203/" data-colorscheme="dark" data-numposts="5"></div>
+                </center>
+            </div>
+        </div>
+
+        <script src="assets/js/main.js"></script>
+</body>
+
+</html>
