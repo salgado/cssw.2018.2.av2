@@ -1,0 +1,142 @@
+html {
+    background: #fff;
+    scroll-behavior: smooth;
+}
+
+@keyframes intro {
+    from {
+        margin-top: 150px;
+        opacity: 0;
+    }
+
+    to {
+        margin-top: 0;
+        opacity: 1;
+    }
+}
+
+body {
+    animation: intro 1s ease-out;
+    background: #fff;
+}
+
+::selection {
+    background: #fff;
+    color: black;
+}
+
+::-moz-selection {
+    background: #fff;
+    color: black;
+}
+
+.row {
+    margin: 0;
+}
+
+.sidebar {
+    background: #fff;
+    color: #fff;
+    padding: 16px;
+    height: 100vh;
+    overflow-y: scroll;
+}
+
+.sidebar::-webkit-scrollbar {
+    width: 4px;
+    background: #fff;
+}
+
+.sidebar::-webkit-scrollbar-thumb {
+    background-color: rgba(255, 255, 255, .3);
+    border-radius: 2px;
+}
+
+.conteudo {
+    padding: 0;
+    height: 100vh;
+    overflow-y: scroll;
+    background: #343a3f;
+    background: linear-gradient(to bottom, #fff 0%, #343a3f 100%)
+}
+
+.mySlides {
+    height: 90vh;
+    width: 100%;
+}
+
+.btn-outline-info {
+    color: #a4c4ff !important;
+    border-color: #a4c4ff !important;
+    transition: all .3 linear;
+}
+
+.btn-outline-info:hover {
+    background-color: #a4c4ff !important;
+    border-color: #fff !important;
+    color: #343a3f !important;
+}
+
+
+.card {
+    cursor: pointer;
+    opacity: .3;
+    transform: scale(.8);
+    transition: all .3s linear;
+    filter: blur(1px);
+}
+
+
+.card-select {
+    opacity: 1;
+    transform: scale(1);
+    filter: blur(0px);
+}
+
+.card .avatar {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+h5.card-title {
+    color: #a4c4ff !important;
+}
+
+img.avatar {
+    float: right !important;
+}
+
+.card-text span {
+    color: #a4c4ff !important;
+}
+
+.card-header span {
+    font-size: 20px;
+    font-weight: 600;
+    top: 18px;
+    position: absolute;
+}
+
+.w3-section {
+    margin-top: 20px;
+    text-align: center !important;
+}
+
+button.w3-button.w3-light-grey {
+    padding: 1px 30px !important;
+    background-color: white !important;
+    color: #a4c4ff !important;
+    border: 2px solid #a4c4ff !important;
+    border-radius: 20px;
+}
+
+button.w3-button.w3-light-grey:hover {
+    background-color: #a4c4ff !important;
+    color: white !important;
+    border: 2px solid #a4c4ff !important;
+}
+
+.logo-learnpedia {
+    width: 50%;
+}
