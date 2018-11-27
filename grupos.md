@@ -111,7 +111,7 @@ Capítulo/título do vídeo :
 2 - 
 3 - 
 
-Grupo 12 : 
+Grupo 14 : 
 ---------
 Componentes: Aluno1 - lucasoutor 
 Projeto: Projeto 1 - Google Presentation  
@@ -119,3 +119,8 @@ Título do vídeo :  Veja como fazer apresentações utilizando Google Presentat
 1 - Introdução 
 2 - Utilização de imagens
 3 - Utilização de fontes
+
+Grupo 15 :
+Componentes: Gabriel Souza - gssouza / Pedro Loback - ploback / Rafael Prado - stradl1n/ Tulio vale - tuliovale
+Projeto: Projeto 1 - Google+ Capítulo/título do vídeo :
+1 - Login no google+/edição de perfil. 2 - 3 -
