@@ -111,10 +111,15 @@ Capítulo/título do vídeo :
 2 -
 3 -
 
-Grupo 12 :   
+Grupo 12 :
+Componentes: Gabriel Souza - gssouza / Pedro Loback - ploback / Rafael Prado - stradl1n/ Tulio vale - tuliovale
+Projeto: Projeto 1 - Google+ Capítulo/título do vídeo :
+1 - Login no google+/edição de perfil. 2 - 3 -
+
+Grupo 13 :   
 ---------  
 Componente: Leonardo Kaneko - leokaneko  
-Projeto: Projeto 12 - Google Classroom Professor
+Projeto: Projeto 13 - Google Classroom Professor  
 
 Capítulo/título do vídeo :   
-1 -
+1 - Como criar uma turma
