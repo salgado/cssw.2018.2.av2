@@ -6,9 +6,11 @@ Grupo 1 :
 Componentes: Rodrigo Freitas Oliveira - khriku56 / Matheus coelho - matheus009 / Jonathan Cabral - JonathanCabral123/ Luciano Roberto - lucianoroberto10,  
 Projeto: Projeto 1 - Google Meet/Hangout  
 Capítulo/título do vídeo :   
+
 1 -
 2 -
 3 -
+4 - Como fazer chamadas pelo Google Hangout - Luciano Roberto
 
 
 Grupo 2 (Exemplo) :   
@@ -123,3 +125,22 @@ Projeto: Projeto 13 - Google Classroom Professor
 
 Capítulo/título do vídeo :   
 1 - Como criar uma turma
+
+Grupo 14 : 
+---------
+Componentes: Aluno1 - lucasoutor 
+Projeto: Projeto 1 - Google Presentation  
+Título do vídeo :  Veja como fazer apresentações utilizando Google Presentations!
+1 - Introdução 
+2 - Utilização de imagens
+3 - Utilização de fontes
+
+Grupo 15 :
+---------
+Componentes: Gabriel Souza - gssouza / Pedro Loback - ploback / Rafael Prado - stradl1n/ Tulio vale - tuliovale  
+Projeto: Projeto 1 - Google+ 
+Capítulo/título do vídeo :   
+1 - Login no google+/edição de perfil.
+2 - 
+3 - 
+
