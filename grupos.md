@@ -9,7 +9,7 @@ Capítulo/título do vídeo :
 1 - 
 2 - 
 3 - 
-
+4 - Como fazer chamadas pelo Google Hangout - Luciano Roberto
 
 Grupo 2 (Exemplo) :   
 ---------  
@@ -121,6 +121,10 @@ Título do vídeo :  Veja como fazer apresentações utilizando Google Presentat
 3 - Utilização de fontes
 
 Grupo 15 :
-Componentes: Gabriel Souza - gssouza / Pedro Loback - ploback / Rafael Prado - stradl1n/ Tulio vale - tuliovale
-Projeto: Projeto 1 - Google+ Capítulo/título do vídeo :
-1 - Login no google+/edição de perfil. 2 - 3 -
+---------
+Componentes: Gabriel Souza - gssouza / Pedro Loback - ploback / Rafael Prado - stradl1n/ Tulio vale - tuliovale  
+Projeto: Projeto 1 - Google+ 
+Capítulo/título do vídeo :   
+1 - Login no google+/edição de perfil.
+2 - 
+3 - 
