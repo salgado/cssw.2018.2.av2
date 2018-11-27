@@ -111,3 +111,12 @@ Capítulo/título do vídeo :
 2 - 
 3 - 
 
+Grupo 12 :
+---------
+Componentes: Aluno1 - gssouza / Aluno2 - ploback / Aluno3 - stradl1n/ Aluno4 tuliovale  
+Projeto: Projeto 1 - Google+ 
+Capítulo/título do vídeo :   
+1 - Login no google+/edição de perfil.
+2 - 
+3 - 
+
