@@ -113,9 +113,9 @@ Capítulo/título do vídeo :
 
 Grupo 12 : 
 ---------
-Componentes: Aluno1 - lucasoutor / Aluno2 - ThaynaBustamente 
+Componentes: Aluno1 - lucasoutor 
 Projeto: Projeto 1 - Google Presentation  
-título do vídeo :   Como usar o Google Presentation? Algumas dicas! 
-1 - 
-2 - 
-3 - 
+Título do vídeo :  Veja como fazer apresentações utilizando Google Presentations!
+1 - Introdução 
+2 - Utilização de imagens
+3 - Utilização de fontes
