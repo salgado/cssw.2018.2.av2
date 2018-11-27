@@ -113,7 +113,7 @@ Capítulo/título do vídeo :
 
 Grupo 12 :
 ---------
-Componentes: Aluno1 - gssouza / Aluno2 - ploback / Aluno3 - stradl1n/ Aluno4 tuliovale  
+Componentes: Gabriel Souza - gssouza / Pedro Loback - ploback / Rafael Prado - stradl1n/ Tulio vale - tuliovale  
 Projeto: Projeto 1 - Google+ 
 Capítulo/título do vídeo :   
 1 - Login no google+/edição de perfil.
