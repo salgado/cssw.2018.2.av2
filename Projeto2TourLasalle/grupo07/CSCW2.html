@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title></title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.css' rel='stylesheet' />
+    <link rel="stylesheet" type="text/css" href="res/style.css">
+    </head>
+<body >
+<div id='map' ></div>
+<div id='features' >
+    <section id='welcome' class='active' >
+        <h3>Olá CSCW!!! Eu sou Patrick Fonseca e matrícula:0050014014</h3>
+        <p><img src="res/kratos.jpg" height="350"><br/>Bem-vindo a Galeria Unilasalle. Conheça um lugar na Universidade UniLasalle que gostei de conhecer.</p>
+    </section>
+    <section id='Patrick' class='active'>
+        <p class="timepoint">Novembro 2018</p>
+        <h3>Galeria Unilasalle</h3>
+         <p><img src="res/capa.jpg" width="350" height="350"><br/>Para quem curte exposições, esse é o local perfeito, construída nos corredores  da Instituição Lassalista. <br/>O espaço tem o objetivo de aglutinar a diversidade cultural através de experiências artísticas. </p>
+        <p><iframe width="350" height="250" src="https://www.youtube.com/embed/eClqikcoAng" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </section>
+</div>
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoiYWxleC1zYWxnYWRvIiwiYSI6ImNqbnc2OHdreTAwMXcza3B0bzdvOGZhZWEifQ.GAqMlYzetVlP7lb8eW7zUw';
+var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/mapbox/streets-v10',
+        bearing: 0,
+        center: [-43.100143,-22.896608],
+        zoom: 17,
+        speed: 0.8,
+        pitch: 0
+}); 
+var chapters = {
+    'welcome': {
+        bearing: 0,
+        center: [-43.100143,-22.896608],
+        zoom: 17,
+        speed: 0.8,
+        pitch: 0
+    },
+    'Patrick': { //Meu1
+        bearing: 0,
+        center: [-43.106577,-22.896528],
+        zoom: 19,
+        pitch: 54.00
+    }
+};
+// On every scroll event, check which element is on screen
+window.onscroll = function() {
+    var chapterNames = Object.keys(chapters);
+    for (var i = 0; i < chapterNames.length; i++) {
+        var chapterName = chapterNames[i];
+        if (isElementOnScreen(chapterName)) {
+            setActiveChapter(chapterName);
+            break;
+        }
+    }
+};
+var activeChapterName = '';
+function setActiveChapter(chapterName) {
+    if (chapterName === activeChapterName) return;
+    map.flyTo(chapters[chapterName]);
+    document.getElementById(chapterName).setAttribute('class', 'active');
+    document.getElementById(activeChapterName).setAttribute('class', '');
+    activeChapterName = chapterName;
+}
+function isElementOnScreen(id) {
+    var element = document.getElementById(id);
+    var bounds = element.getBoundingClientRect();
+    return bounds.top < window.innerHeight && bounds.bottom > 0;
+}
+</script>
+</body>
+</html>

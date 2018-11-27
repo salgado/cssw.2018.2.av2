@@ -1,0 +1,158 @@
+
+
+<html>
+<head>
+	<title>Tutorial Gmail</title>
+	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+	<style type="text/css">
+		.barralateral {
+			background-color: white;
+			
+			width: 100%;
+				padding: 10px;
+		}
+
+		.row{
+			margin: 0;
+		}
+
+		.container{
+			padding-left: 0px !important;
+			padding-right: 0px !important;
+			margin-right: 0px !important;
+			max-width: 1600px !important;
+		}
+
+		.card {
+			box-shadow: 3px 5px 30px 3px !important;
+			height: 50%;
+			padding: 5px;
+			margin-left: 10px;	
+			margin-right: 10px;
+			margin-top: 8px;
+		}
+		
+		.titulo {
+			padding: 10px;
+			color: white;
+			margin-top: 20px;
+			font-size: 40px;
+			font-family: 'impact';
+		}
+		.botaoCompartilhar{
+			margin-bottom: 10px;
+			background-color: #cc0000;
+			color: white;
+			padding-left: 10px;
+			padding-right: 10px;
+			padding-top: 5px;
+			padding-bottom: 5px;
+			border-radius: 20px;
+			 cursor:pointer;
+			border-color: #cc0000;
+		}
+
+		.video {
+			padding-right: 0px !important;
+			padding-left: 0px !important;
+		}
+
+		body {
+
+			background-color: #cc0066;	
+	
+		}
+	</style>
+
+		
+</head>
+<body>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-9 video">
+				
+				
+				<section id="banner" align="center" style="margin-top: 10px !important; ">
+					<div class="w3-content w3-display-container">
+ 						<iframe class="mySlides" width="100%" height="80%" src="https://www.youtube.com/embed/p5RDp90ZuRQ" ></iframe>
+  							<iframe width="100%" height="80%"  class="mySlides" src="https://www.youtube.com/embed/nltO0PewRAw"></iframe>
+
+  						<button class="w3-button w3-black w3-display-left" style="background-color: #424242 !important; border-radius: 20px" onclick="plusDivs(-1)">&#10094;</button>
+  						<button class="w3-button w3-black w3-display-right" style="background-color: #424242 !important; border-radius: 20px" onclick="plusDivs(1)">&#10095;</button>
+					</div>
+				</section>
+
+				<div class="fb-comments" data-href="https://juubsloureiro.github.io/cssw.2018.2.av2/Projeto1GoogleApps/grupo10/" data-width="1200" data-numposts="5" style="background-color: white !important; padding-left: 82px !important; margin-top:10px; padding-right: 249px !important;"></div>
+
+				<div id="fb-root"></div>
+				<script>(function(d, s, id) {
+				  var js, fjs = d.getElementsByTagName(s)[0];
+				  if (d.getElementById(id)) return;
+				  js = d.createElement(s); js.id = id;
+				  js.src = 'https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v3.2&appId=748984248798286&autoLogAppEvents=1';
+				  fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'facebook-jssdk'));</script>
+
+			
+
+			</div>
+
+			<div class="col-md-3 barralateral">
+				<div class="card" align="center">
+ 					 <img src="juliana.png" alt="Avatar" style="width:40%">
+  					 <div class="container">
+   						 <h4 style="color: #cc0066 !important;"><b><br>JULIANA LOUREIRO</b></h4> 
+   						 <p><b>Tutorial: Primeiro acesso</b></p> 
+   						 <p align="justify" style="padding-left: 20px !important; padding-right: 20px;"><b>Nesse tutorial você aprenderá a criar sua conta no Gmail além de escrever/enviar um e-mail.</b></p> 
+
+   						 <h4><b>22/11/2018</b></h4> 
+  					 </div>
+				</div>
+					
+				<div class="card" align="center">
+ 					 <img src="fellipe.png" alt="Avatar" style="width:40%">
+  					 <div class="container">
+   						 <h4 style="color: #cc0066 !important; "><b><br>FELLIPE PINHO</b></h4> 
+   						 <p><b>Tutorial: Funções básicas do Gmail</b></p> 
+   						 <p align="justify" style="padding-left: 20px !important; padding-right: 20px;"><b>Fique por dentro das funções básicas do Gmail e aprenda a responder, encaminhar e favoritar seus e-mails!</b></p> 
+
+   						 <h4><b>22/11/2018</b></h4> 
+  					 </div>
+				</div> 
+
+					<div class ="titulo" align="center">
+					<img src="logo.png" width="50%"></img>
+					 
+				</div>
+
+			</div>
+
+				
+		</div>
+</div>
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+
+  if (n > x.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";  
+  }
+  x[slideIndex-1].style.display = "block";  
+}
+
+</script>
+
+</body>
+</html>

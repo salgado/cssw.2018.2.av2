@@ -1,0 +1,47 @@
+body { 
+    margin:0;
+    padding:0;
+    font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+
+}
+#map {
+    position:absolute;
+    top:0;
+    bottom:0;
+    width:70%;
+}
+#map {
+    position: fixed;
+    width:70%;
+}
+#features {
+    width: 30%;
+    margin-left: 70%;
+    font-family: Tw Cen MT;
+    background-color: #fafafa;
+}
+.timepoint {
+    color: black;
+    font-family: Palatino, 'Palatino Linotype', 'Palatino LT STD', 'Book Antiqua', Georgia, serif;
+    font-weight: bold;
+}
+p {
+    color: #0a0a0a;
+    font-family: Palatino, 'Palatino Linotype', 'Palatino LT STD', 'Book Antiqua', Georgia, serif;
+}
+section {
+    padding:  25px 50px;
+    line-height: 25px;
+    border-bottom: 1px solid #ddd;
+    opacity: 0.25;
+    font-size: 20px;
+    background: linear-gradient(to bottom, #99ccff -1%, #0000ff 100%);
+}
+section.active {
+    opacity: 1;
+}
+section:last-child {
+    border-bottom: none;
+    margin-bottom: 50px;
+    color: #0000CD;
+}
