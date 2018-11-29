@@ -69,14 +69,14 @@ section:last-child {
 
 .navigate{
     position: relative;
-    left: 454px; 
+    left: 440px; 
 }
 
 .button {
     background-color: #4CAF50;
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 10px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -94,6 +94,7 @@ section:last-child {
     width: 100px;
     height: 100px;
     border-radius: 50%;
+    cursor: pointer;
 }
 
 .perfil{
