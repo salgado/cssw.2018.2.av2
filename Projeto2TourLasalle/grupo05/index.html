@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Espaço Conecta</title>
+	<meta charset=utf-8>
+	<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no'/>
+    <script src='https://api.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.js'></script>
+	<link href='https://api.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.css' rel='stylesheet'/>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" 
+	type="text/javascript"></script>
+</head>
+<body>
+<div id='map'></div>	
+<a name="fb_share" type="box_count" share_url="http://www.devmedia.com.br"></a>
+<div class="container">
+    <div class="wall wall-1" id="wall-1">
+    	<div class="perfil">
+    		<h3>Moises</h3> 
+    		<img onclick="getLocation()" class="avatar" src="img/moises.jpg" alt="moises">
+    		<h4>Conexões Múltiplas</h4>
+    		<p>Espaço pensado para elaboração de diversos conteúdos multmidia.</p>
+    		<p>Data da publicação: 27/11/2018</p>
+    	</div>
+        <a class="navigate" href="#wall-2"><button class="button">Avançar</button></a>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/U9I9W4DeuJw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+		<iframe src="http://www.facebook.com/plugins/like.php?href=https://www.facebook.com/unilasallerj/&layout=button_count&show_faces=true&width=380&action=like&colorscheme=light&height=30&locale=pt_BR" scrolling="no" frameborder="0" 
+		style="border:none; overflow:hidden; width:100px; height:25px;" allowTransparency="true">
+		</iframe>   
+    </div>
+
+    <div class="wall wall-2" id="wall-2">
+    	<div class="perfil">
+    		<h3>Rafaela</h3> 
+    		<img onclick="getLocation()" class="avatar" src="img/rafaela.jpg" alt="rafaela">
+    		<h4>Conexão Mundo</h4>
+    		<p>Sala de aula diferente do usual, cujo objetivo facilitar a iteração dos alunos.</p>
+    		<p>Data da publicação: 27/11/2018</p>
+    	</div>	
+        <a class="navigate" href="#wall-3"><button class="button">Avançar</button></a>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/tsvnYIrcDm8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+		<iframe src="http://www.facebook.com/plugins/like.php?href=https://www.facebook.com/unilasallerj/&layout=button_count&show_faces=true&width=380&action=like&colorscheme=light&height=30&locale=pt_BR" scrolling="no" frameborder="0" 
+		style="border:none; overflow:hidden; width:100px; height:25px;" allowTransparency="true">
+		</iframe>   
+    </div>
+
+    <div class="wall wall-3" id="wall-3">
+    	<div class="perfil">
+    		<h3>Luiz Cesar</h3> 
+    		<img onclick="getLocation()" class="avatar" src="img/luiz.jpg" alt="luiz">
+    		<h4>Conexão Makerspace</h4>
+    		<p>Objetivo de oferecer diversas tecnologias em um ambiente colaborativo.</p>
+    		<p>Data da publicação: 27/11/2018</p>
+		</div>
+         <a class="navigate" href="#wall-1"><button class="button">Avançar</button></a>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/vZIYOG_Qb4Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+		<iframe src="http://www.facebook.com/plugins/like.php?href=https://www.facebook.com/unilasallerj/&layout=button_count&show_faces=true&width=380&action=like&colorscheme=light&height=30&locale=pt_BR" scrolling="no" frameborder="0" 
+		style="border:none; overflow:hidden; width:100px; height:25px;" allowTransparency="true">
+		</iframe>   
+    </div>
+</div>
+<script src="js/map.js"></script>
+</body>
+</html>

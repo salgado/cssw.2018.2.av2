@@ -47,7 +47,7 @@ Capítulo/título do vídeo :
 
 Grupo 5 :   
 ---------  
-Componentes: Aluno1 - moisesvbernardo / Aluno2 - login_github2 / Aluno3 - login_github3  
+Componentes: Aluno1 - moisesvbernardo / Aluno2 - LuizCesar18244 / Aluno3 - Rafaela24  
 Projeto: Projeto 2 - Tour Lasalle
 
 Locais :  
